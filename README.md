@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola, soy Yanela! :)
 
-<!--
-**yanlogic/yanlogic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Ingeniería de Software** en la Universidad Privada del Norte (UPN), Lima – Perú. Actualmente estoy terminando mi primer ciclo y me apasiona aprender programación, resolver problemas con lógica y participar en proyectos con impacto social.
 
-Here are some ideas to get you started:
+### 💻 - Lo que estoy aprendiendo:
+- Lógica de programación
+- Pseudocódigo
+- Programación en **C#** con **Visual Studio 2022**
+- Uso básico de **GitHub**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 - Proyectos en los que estoy trabajando:
+- Ejercicios básicos con estructuras condicionales
+- Resolución de problemas simples con pseudocódigo
+- Repositorio: *(En proceso. Pronto disponible.)*
+
+### 🎯 - Objetivo actual:
+Aprender colaborando. Me gustaría participar como voluntaria en proyectos reales o ONGs donde pueda aplicar mis conocimientos y seguir creciendo como desarrolladora.
+
+---
+
+💬 *Gracias por visitar mi perfil. Estoy abierta a oportunidades de aprendizaje, colaboración y mentoría.*
