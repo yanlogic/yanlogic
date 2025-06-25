@@ -11,7 +11,7 @@ Soy estudiante de **Ingeniería de Software** en la Universidad Privada del Nort
 ### 📌 - Proyectos en los que estoy trabajando:
 - Ejercicios básicos con estructuras condicionales
 - Resolución de problemas simples con pseudocódigo
-- Repositorio: *(En proceso. Pronto disponible.)*
+- Repositorio: *(https://github.com/yanlogic/algoritmos-primer-ciclo)*
 
 ### 🎯 - Objetivo actual:
 Aprender colaborando. Me gustaría participar como voluntaria en proyectos reales o ONGs donde pueda aplicar mis conocimientos y seguir creciendo como desarrolladora.
