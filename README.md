@@ -5,7 +5,7 @@ Soy estudiante de **Ingeniería de Software** en la Universidad Privada del Nort
 ### 💻 - Lo que estoy aprendiendo:
 - Lógica de programación
 - Pseudocódigo
-- Programación en **C#** con **Visual Studio 2022**
+- Programación en **C#** y **Python** con **Visual Studio 2022**
 - Uso básico de **GitHub**
 
 ### 📌 - Proyectos en los que estoy trabajando:
